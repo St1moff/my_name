@@ -1,2 +1,3 @@
 # my_name
-Bikbaev Askar Ruslanovich, group 911
+Бикбаев Аскар Русланович
+911
